@@ -1,0 +1,14 @@
+#SeccionTrago img{
+    width: 20%;
+    height: auto;
+}
+
+.oscuro{
+    background-color: rgb(37, 30, 82);
+    color: aliceblue;
+}
+
+.claro{
+    background-color: aliceblue;
+    color: black;
+}
